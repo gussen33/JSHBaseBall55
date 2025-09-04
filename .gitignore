@@ -1,0 +1,15 @@
+# Unreal-specific
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Rider & Visual Studio specific
+.idea/
+.vs/
+.vscode/
+*.pdb
+*.pdb-rid
+*.sdf
+*.sln
+*.suo
